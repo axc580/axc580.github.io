@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Andrea Céspedes Résumé</title>
+  </head>
+
+
+  <body>
+      <header>
+        <h1>Andrea Céspedes</h1>
+      </header>
+
+      <header id="contact">
+        <p>305-898-2994 / axc580@miami.edu / 110 Washington Ave, Miami Beach, FL</p>
+      </header>
+      <nav>
+        <ul>
+          <li><a href="#contact">Contact</a></li>
+          <li><a href="#profile">Profile</a></li>
+          <li><a href="#experience">Experience</a></li>
+          <li><a href="#education">Education</a></li>
+          <li><a href="#skills">Skills</a></li>
+          <li><a href="#activities">Activities</a></li>
+        </ul>
+      </nav>
+
+      <main>
+        <section id="profile">
+          <h2>Profile</h2>
+            <article>
+              <p>A young professional in the School of Communication at the University of Miami. Majoring in broadcast journalism and minoring in sociology.</p>
+            </article>
+        </section>
+
+        <section id="experience">
+          <h2>Expereince</h2>
+            <article>
+              <ul>
+                <p><li><strong>Anchor &amp; Writer, <a href="http://umtv.miami.edu/shows/newsvision">Newsvision</a>; Coral Gables, FL - 2015-Present</strong></li></p>
+                  <p>Hard news anchor for UMTV’s award wining news segment. Writer for local, national and internal news.</p>
+
+                <p><li><strong>Editor, The Rival; Coral Gables, FL - 2015-Present</strong></li></p>
+                  <p>One of the Miami founders of The Rival an online student publication, editor and writer of the lifestyle section.</p>
+
+                <p><li><strong>Producer,<a href="http://umtv.miami.edu/shows/unimiami"> UniMiami</a>; Coral Gables, FL — 2014-present</strong></li></p>
+                  <p>Hard news anchor, reporter, writer producer and editor for the Spanish newscast of UMTV.</p>
+
+                <p><li><strong>Assistant Producer, pFunk; Wynwood, FL — 2014-2015</strong></li></p>
+                  <p>Managed social media sites and communication for the online radio talkshow. Produced content.</p>
+                </ul>
+              </article>
+            </section>
+
+
+        <section id="education">
+          <h2>Education</h2>
+            <article>
+              <ul>
+                <p><li><strong><a href="http://welcome.miami.edu/">University of Miami</a></strong>, Coral Gables, FL</li></p>
+                	 <p>Senior graduating May 2016 with a bachelor's degree in Broadcast Journalism</p>
+                <p><li><strong><a href="http://www.mdc.edu/main/">Miami Dade College</a></strong>, Miami, Fl</li></p>
+                    <p>Acquired associates degree with honors	in 2014</p>
+              </ul>
+            </article>
+          </section>
+
+
+          <section id="skills">
+            <h2>Skills</h2>
+              <article>
+                <ul>
+                  <p><li>Fludent in Spanish : including reading and writing</li></p>
+                  <p><li>Proficient in Microsoft Word, Powerpoint, Excel and Photoshop</li></p>
+                  <p><li>Published Photographer</li></p>
+                </ul>
+              </article>
+          </section>
+
+
+          <section id="activities">
+            <h2>Activities</h2>
+              <article>
+                <ul>
+                  <p><li>Debate team</li></p>
+                  <p><li>Contributor to Distraction Magazine</li></p>
+                  <p><li>Contributor to The Hurricane</li></p>
+                </ul>
+              </article>
+          </section>
+
+      </main>
+
+    <footer>
+      <p>
+        <p>
+          <p>
+          <small>Last updated October 2015</small>
+        </p>
+        </p>
+      </p>
+    </footer>
+  </body>
+  </html>
