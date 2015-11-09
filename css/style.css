@@ -1,0 +1,58 @@
+/* This is a commernt. */
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display);
+@import url(https://fonts.googleapis.com/css?family=Noto+Serif);
+
+body {
+  font-size: 16px;
+  font-family: "Noto Serif", serif;
+  color: black;
+  background-image: url("../img/purty_wood.png"); /*229,	187,	121*/
+  font-weight: bold;
+}
+
+a, a:visited {
+  color: rgb(59,124,178);
+}
+
+a:hover {
+  color:rgb(135,200,255);
+}
+
+
+h1 {
+  font-family: "Playfair Display", serif;
+  text-align: center;
+}
+
+
+#container {
+  background: rgba(255,255,255,0.5);
+  border: 1px solid #222;
+  width: 700px;
+  margin: 0 auto; /* margin: 0 auto 0 auto; */
+  padding: 40px;
+}
+
+address {
+  font-style:normal;
+  text-align: center;
+}
+
+
+nav ul {
+  padding: 0;
+  list-style: none;
+  margin: 0 auto;
+  width: 500px;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 16px;
+}
+
+
+#education ul li ul li {
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
